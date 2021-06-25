@@ -1,0 +1,51 @@
+body {
+	background-color: lightgrey;
+}
+#picture {
+	background-clip: padding-box;
+	background-repeat: repeat;
+}
+#picture img {
+	width: 100%;
+	display: block;
+}
+.section {
+	width: 100%;
+	padding: 25px 0px;
+}
+.center {
+	text-align: center;
+}
+img.andy {
+	border-radius: 50%;
+	width: 390px;
+}
+h3 {
+	text-align: center;
+	color: ;
+	font-family: "Papyrus";
+}
+h2 {
+	text-align: center;
+	font-family: "Lucida Handwriting";
+	color: darkgoldenrod;
+}
+#leftbox {
+	float: left;
+	border: 1px solid green;
+	width: 350px;
+	height: 190px;
+	border-radius: 50px;
+}
+#rightbox {
+	float: right;
+	width: 450px;
+	height: 190px;
+	
+}
+#footer{	
+	width: 100%;
+	heigh: 50px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
