@@ -1,13 +1,4 @@
-<!DOCTYPE html>	
-<html>	
-	<head>
-		<title>Happy Birthday SparkAndy</title>
-		<link rel="stylesheet" type="text/css" href="CSS/style.css" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	</head>
-
-	<body>
-		<div id="picture">
+<div id="picture">
 			<img src="images/brown.jpg" alt="background">
 		</div>
 
@@ -31,5 +22,3 @@
 
 		<div id="footer">
 		<p>&#169;2021 LashaBint. All Rights Reserved</p>
-	</body>
-</html>
